@@ -24,3 +24,9 @@ const reset = () => {
   counter.$reset()
 }
 </script>
+
+<style scope>
+button {
+  margin-right: 1rem;
+}
+</style>
